@@ -1,0 +1,62 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "68a779af-9de1-49b9-b18b-f6470600cd2e",
+            "actions": [
+                {
+                    "name": "LMB",
+                    "type": "Button",
+                    "id": "5ce78e2d-0557-45b8-acec-80e2d19c7575",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "05e8c669-b159-4a14-ade5-53d226179d20",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LMB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "UI",
+            "id": "4e61ede1-9474-4fae-a6b0-b02a334fa7b4",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "4156568b-176d-4af5-a21b-757ff38e739c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8dd6ae2f-87b2-4a2f-9086-4aa6f07633f4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
